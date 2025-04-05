@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="ubuntu-desktop-bootstrap_ubuntu-desktop-bootstrap.desktop" score="9" last-seen="1743712374"/>
+    <application id="gnome-initial-setup.desktop" score="2" last-seen="1743677205"/>
+    <application id="org.gnome.Terminal.desktop" score="5223" last-seen="1743856275"/>
+    <application id="org.gnome.Settings.desktop" score="12" last-seen="1743677820"/>
+  </context>
+</application-state>
